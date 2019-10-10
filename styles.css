@@ -1,0 +1,11 @@
+input {
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: lightgrey;
+    padding-inline: 10px;
+}
+
+body {
+    font-size: 24px;
+    color: blue;
+}
